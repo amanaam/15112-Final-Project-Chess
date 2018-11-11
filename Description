@@ -1,0 +1,8 @@
+I will be programming multiplayer chess, which is one of the most widely played board game in the world, for my 15112 final project.
+I will use pygame library.
+The user interface will consist of 3 screens. In the first screen there will be two options. 
+1- Play game
+2-Rules
+Play game will take us to the main window of the game and rules will take us to another screen which consists of all rules of chess.
+By the first checkpoint I will implement most of the code. The rules for pawn promotion and pieces taking other pieces will be implemented
+by the second checkpoint
